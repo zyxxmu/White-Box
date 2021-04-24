@@ -36,7 +36,7 @@ Run the following scripts to test our results reported in the paper (change your
 
 #### ImageNet
 
-| Network  | Flops &#8595; | Acc Top1 | Acc Top5 | Pruned Model                                                 |
+| Network  | Flops &#8595; | Top-1 Acc. | Top-5 Acc.  | Pruned Model                                                 |
 | -------- | ----------------- | -------- | -------- | ------------------------------------------------------------ |
 | ResNet50 | 45.6%             | 75.32%   | 92.43%   | [Modellink](https://drive.google.com/drive/folders/1WGWce2puviqwKfjWrxB9CLJcotJxOx_a?usp=sharing) |
 | ResNet50 | 63.5%             | 74.21%   | 92.01%   | [Modellink](https://drive.google.com/drive/folders/15C6RvrLvPoswrXKpvT_idCm8rB88zxLB?usp=sharing) |
