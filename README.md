@@ -27,7 +27,7 @@ Run the following scripts to test our results reported in the paper (change your
 
 #### CIFAR-10
 
-| Full Model   | Flops$\downarrow$ | Accuracy | Pruned Model                                                 |
+| Full Model   | Flops &#8595; | Accuracy | Pruned Model                                                 |
 | ------------ | ----------------- | -------- | ------------------------------------------------------------ |
 | VGG16        | 76.4%             | 93.47%   | [Modellink](https://drive.google.com/drive/folders/1GWR56Aoc08r3eUUwSub1_lxJ0Z06dWyd?usp=sharing) |
 | ResNet56     | 55.6%             | 93.54%   | [Modellink](https://drive.google.com/drive/folders/1NSnJnLGWsSJLiVCksk1OnOK2iVGRfLyg?usp=sharing) |
@@ -36,7 +36,7 @@ Run the following scripts to test our results reported in the paper (change your
 
 #### ImageNet
 
-| Network  | Flops$\downarrow$ | Acc Top1 | Acc Top5 | Pruned Model                                                 |
+| Network  | Flops &#8595; | Acc Top1 | Acc Top5 | Pruned Model                                                 |
 | -------- | ----------------- | -------- | -------- | ------------------------------------------------------------ |
 | ResNet50 | 45.6%             | 75.32%   | 92.43%   | [Modellink](https://drive.google.com/drive/folders/1WGWce2puviqwKfjWrxB9CLJcotJxOx_a?usp=sharing) |
 | ResNet50 | 63.5%             | 74.21%   | 92.01%   | [Modellink](https://drive.google.com/drive/folders/15C6RvrLvPoswrXKpvT_idCm8rB88zxLB?usp=sharing) |
