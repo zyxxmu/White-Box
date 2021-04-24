@@ -1,0 +1,1 @@
+python cifar.py --arch mobilenet_v2 --cfg mobilenet_v2 --job_dir ./experiment/cifar/mobilenet_v2 --data_path /userhome/datasets/cifar --lr 0.1 --weight_decay 4e-5  --num_epochs 300 --gpus 0 --train_batch_size 256 --classtrain_epochs 30 --sparse_lambda 0.01 --pruning_rate 0.29 

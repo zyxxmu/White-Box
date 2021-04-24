@@ -1,0 +1,1 @@
+python test_pruned_model.py --data_set cifar10 --arch mobilenet_v2 --cfg mobilenet_v2 --data_path /userhome/datasets/cifar --pruned_model_path ./ckpt/model_best.pt

@@ -1,0 +1,1 @@
+python test_pruned_model.py --data_set imagenet --arch resnet --cfg resnet50 --data_path /userhome/datasets/ImageNet2012 --pruned_model_path ./ckpt/model_best.pt
