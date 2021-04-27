@@ -1,4 +1,4 @@
-# Carrying out CNN Channel Pruning in a White Box ([Paper Link]()) ![](https://visitor-badge.glitch.me/badge?page_id=zyxxmu.White-Box)
+# Carrying out CNN Channel Pruning in a White Box ([Paper Link](https://arxiv.org/pdf/2104.11883.pdf)) ![](https://visitor-badge.glitch.me/badge?page_id=zyxxmu.White-Box)
 ## Requirements
 
 * python3.7.4, pytorch 1.5.1, torchvision 0.4.2, thop 0.0.31
