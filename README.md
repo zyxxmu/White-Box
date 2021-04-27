@@ -16,7 +16,7 @@ Run the following scripts to reproduce the results reported in paper (change you
 
 ## Evaluate Our Pruned Models
 
-Run the following scripts to test our results reported in the paper (change your data path and input the pruned model path in the corresponding scripts. The pruned moodel can be downloaded from the links in the following table).
+Run the following scripts to test our results reported in the paper (change your data path and input the pruned model path in the corresponding scripts. The pruned model can be downloaded from the links in the following table).
 
 * VGGNet-16-CIFAR10 ./scripts/test-vgg.sh
 * ResNet-56-CIFAR10 ./scripts/test-resnet56.sh   
